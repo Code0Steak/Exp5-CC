@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>PHP page hosted on Heroku</h1>
+<h3>Pizza Recipe</h3>
   <div class="form">
 
    
